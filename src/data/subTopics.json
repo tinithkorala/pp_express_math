@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Operations with Complex Numbers",
+    "slug": "operations-with-complex-numbers",
+    "description": "Exploring mathematical operations and properties of complex numbers.",
+    "subTopicCategoryId": "66389eed7490c6ab303e4741",
+    "color": "#003D78",
+    "isActive": true,
+    "mainPhoto": "default-sub-topics.jpg"
+  },
+  {
+    "name": "Analyzing Patterns in Number Sequences",
+    "slug": "analyzing-patterns-in-number-sequences",
+    "description": "Understanding the behavior and characteristics of number sequences.",
+    "subTopicCategoryId": "66389eed7490c6ab303e4741",
+    "color": "#003D78",
+    "isActive": true,
+    "mainPhoto": "default-sub-topics.jpg"
+  },
+  {
+    "name": "Exploring Unit Conversions in Real-world Scenarios",
+    "slug": "exploring-unit-conversions-in-real-world-scenarios",
+    "description": "Applying unit conversions to solve real-world problems and scenarios.",
+    "subTopicCategoryId": "66389eed7490c6ab303e4741",
+    "color": "#003D78",
+    "isActive": true,
+    "mainPhoto": "default-sub-topics.jpg"
+  },
+  {
+    "name": "Application of Ratios in Business Decision Making",
+    "slug": "application-of-ratios-in-business-decision-making",
+    "description": "Utilizing ratios to inform business decision making and analysis.",
+    "subTopicCategoryId": "66389eed7490c6ab303e4741",
+    "color": "#003D78",
+    "isActive": true,
+    "mainPhoto": "default-sub-topics.jpg"
+  },
+  {
+    "name": "Understanding Compound Interest Calculations",
+    "slug": "understanding-compound-interest-calculations",
+    "description": "Exploring compound interest calculations and their applications.",
+    "subTopicCategoryId": "66389eed7490c6ab303e4741",
+    "color": "#003D78",
+    "isActive": true,
+    "mainPhoto": "default-sub-topics.jpg"
+  },
+  {
+    "name": "Practical Use of Logarithms in Scientific Research",
+    "slug": "practical-use-of-logarithms-in-scientific-research",
+    "description": "Understanding the practical applications of logarithms in scientific research.",
+    "subTopicCategoryId": "66389eed7490c6ab303e4741",
+    "color": "#003D78",
+    "isActive": true,
+    "mainPhoto": "default-sub-topics.jpg"
+  },
+  {
+    "name": "Solving Optimization Problems in Real-life Situations",
+    "slug": "solving-optimization-problems-in-real-life-situations",
+    "description": "Applying optimization techniques to solve real-life problems and situations.",
+    "subTopicCategoryId": "66389eed7490c6ab303e4741",
+    "color": "#003D78",
+    "isActive": true,
+    "mainPhoto": "default-sub-topics.jpg"
+  },
+  {
+    "name": "Analyzing 3D Shapes for Maximum Space Utilization",
+    "slug": "analyzing-3d-shapes-for-maximum-space-utilization",
+    "description": "Analyzing three-dimensional shapes to optimize space utilization.",
+    "subTopicCategoryId": "66389eed7490c6ab303e4741",
+    "color": "#003D78",
+    "isActive": true,
+    "mainPhoto": "default-sub-topics.jpg"
+  },
+  {
+    "name": "Effective Time Management Strategies for Productivity",
+    "slug": "effective-time-management-strategies-for-productivity",
+    "description": "Exploring strategies for effective time management to enhance productivity.",
+    "subTopicCategoryId": "66389eed7490c6ab303e4741",
+    "color": "#003D78",
+    "isActive": true,
+    "mainPhoto": "default-sub-topics.jpg"
+  },
+  {
+    "name": "Interpretation of Scale Diagrams in Engineering Projects",
+    "slug": "interpretation-of-scale-diagrams-in-engineering-projects",
+    "description": "Understanding and interpreting scale diagrams in engineering projects.",
+    "subTopicCategoryId": "66389eed7490c6ab303e4741",
+    "color": "#003D78",
+    "isActive": true,
+    "mainPhoto": "default-sub-topics.jpg"
+  },
+  {
+    "name": "Advanced Techniques in Manipulating Algebraic Expressions",
+    "slug": "advanced-techniques-in-manipulating-algebraic-expressions",
+    "description": "Exploring advanced techniques for manipulating algebraic expressions.",
+    "subTopicCategoryId": "66389eed7490c6ab303e4741",
+    "color": "#003D78",
+    "isActive": true,
+    "mainPhoto": "default-sub-topics.jpg"
+  },
+  {
+    "name": "Application of Algebraic Fractions in Engineering Design",
+    "slug": "application-of-algebraic-fractions-in-engineering-design",
+    "description": "Applying algebraic fractions in engineering design and calculations.",
+    "subTopicCategoryId": "66389eed7490c6ab303e4741",
+    "color": "#003D78",
+    "isActive": true,
+    "mainPhoto": "default-sub-topics.jpg"
+  },
+  {
+    "name": "Solving Complex Equations and Inequalities in Physics Problems",
+    "slug": "solving-complex-equations-and-inequalities-in-physics-problems",
+    "description": "Solving complex equations and inequalities encountered in physics problems.",
+    "subTopicCategoryId": "66389eed7490c6ab303e4741",
+    "color": "#003D78",
+    "isActive": true,
+    "mainPhoto": "default-sub-topics.jpg"
+  },
+  {
+    "name": "Exploring Geometric Relationships in Modern Architecture",
+    "slug": "exploring-geometric-relationships-in-modern-architecture",
+    "description": "Analyzing geometric relationships in the context of modern architecture.",
+    "subTopicCategoryId": "66389eed7490c6ab303e4742",
+    "color": "#003D78",
+    "isActive": true,
+    "mainPhoto": "default-sub-topics.jpg"
+  },
+  {
+    "name": "Data Visualization Techniques for Effective Communication",
+    "slug": "data-visualization-techniques-for-effective-communication",
+    "description": "Exploring techniques for visualizing data to facilitate effective communication.",
+    "subTopicCategoryId": "66389eed7490c6ab303e4742",
+    "color": "#003D78",
+    "isActive": true,
+    "mainPhoto": "default-sub-topics.jpg"
+  },
+  {
+    "name": "Probabilistic Models in Decision Making under Uncertainty",
+    "slug": "probabilistic-models-in-decision-making-under-uncertainty",
+    "description": "Understanding probabilistic models and their role in decision making under uncertainty.",
+    "subTopicCategoryId": "66389eed7490c6ab303e4743",
+    "color": "#003D78",
+    "isActive": true,
+    "mainPhoto": "default-sub-topics.jpg"
+  },
+  {
+    "name": "Advanced Set Theory and Its Role in Computer Science Algorithms",
+    "slug": "advanced-set-theory-and-its-role-in-computer-science-algorithms",
+    "description": "Exploring advanced set theory concepts and their applications in computer science algorithms.",
+    "subTopicCategoryId": "66389eed7490c6ab303e4743",
+    "color": "#003D78",
+    "isActive": true,
+    "mainPhoto": "default-sub-topics.jpg"
+  }
+]

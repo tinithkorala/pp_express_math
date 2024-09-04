@@ -1,0 +1,13 @@
+<%- include('./../layouts/email_header.ejs') %>
+
+<h1>Welcome to Our Website!</h1>
+<p>Dear <%= firstName %>,</p>
+<p>
+  Use this url to reset your password. <%= url %>
+</p>
+<p>
+  Best regards,<br />
+  The Team
+</p>
+
+<%- include('./../layouts/email_footer.ejs') %>
